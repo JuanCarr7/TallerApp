@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TallerApi", "TallerApi\TallerApi.csproj", "{2F8CE19D-6159-4653-A7C4-5493893EA412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestTaller", "TestTaller\TestTaller.csproj", "{C9C2306E-966F-4CD2-9AF8-A60C9E825DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerApiTest", "TallerApiTest\TallerApiTest.csproj", "{17EA85F3-CA5F-4C4B-B0E0-5CBEF927CCBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8CE19D-6159-4653-A7C4-5493893EA412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8CE19D-6159-4653-A7C4-5493893EA412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8CE19D-6159-4653-A7C4-5493893EA412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8CE19D-6159-4653-A7C4-5493893EA412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C2306E-966F-4CD2-9AF8-A60C9E825DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C2306E-966F-4CD2-9AF8-A60C9E825DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C2306E-966F-4CD2-9AF8-A60C9E825DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C2306E-966F-4CD2-9AF8-A60C9E825DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EA85F3-CA5F-4C4B-B0E0-5CBEF927CCBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EA85F3-CA5F-4C4B-B0E0-5CBEF927CCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EA85F3-CA5F-4C4B-B0E0-5CBEF927CCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EA85F3-CA5F-4C4B-B0E0-5CBEF927CCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
